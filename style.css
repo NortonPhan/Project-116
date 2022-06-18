@@ -1,0 +1,9 @@
+#heading_button{
+    width: 450px;
+    height: 150px;
+    font-size: 65px;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 10px;
+}
